@@ -1,1 +1,1 @@
-# 2024s_qtm350_ps1
+# QTM 350 Project
