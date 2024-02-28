@@ -1,1 +1,2 @@
 # QTM 350 Project
+In this project, we are going to get data from IPUM US, selecting on the variables, cleaning the data, and orgnize the data to analyze how the improvement of technology companies influence the housing price around.
